@@ -1,4 +1,5 @@
 *.dat
 *.log
+*.txt
 problem*/target/*
 problem*/Cargo.lock
